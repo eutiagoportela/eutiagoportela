@@ -51,4 +51,4 @@ Banco de Dados:
 
 <hr>
 <h1 align="Left">Repositórios Principais</h1>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&theme=radical&repo=nomerepositorio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&theme=radical&repo=eutiagoportela)](https://github.com/anuraghazra/github-readme-stats)
