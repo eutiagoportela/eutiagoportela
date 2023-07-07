@@ -52,5 +52,6 @@ Banco de Dados:
 <hr>
 <h1 align="Left">Repositórios Principais</h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoSOLID)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Filmes-Api)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ConsultasAPI-LINQ-ArqJson-Musicas)](https://github.com/anuraghazra/github-readme-stats)
