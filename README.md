@@ -53,6 +53,7 @@ Banco de Dados:
 <h1 align="Left">Repositórios Principais</h1>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoJavaBackEndSpringBoot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoAngularFront_BackSpringBoot)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Micro-Ondas-Teste-Benner)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoSOLID)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Projeto-Clean-Code)](https://github.com/anuraghazra/github-readme-stats)
