@@ -52,9 +52,9 @@ Banco de Dados:
 <hr>
 <h1 align="Left">Repositórios Principais</h1>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoJavaBackEndSpringBoot)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoAngularFront_BackSpringBoot)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Micro-Ondas-Teste-Benner)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoSOLID)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Projeto-Clean-Code)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ConsultasAPI-LINQ-ArqJson-Musicas)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoJavaBackEndSpringBoot)](https://github.com/eutiagoportela/ProjetoAngularFront_BackSpringBoot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoAngularFront_BackSpringBoot)](https://github.com/eutiagoportela/ProjetoJavaBackEndSpringBoot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Micro-Ondas-Teste-Benner)](https://github.com/eutiagoportela/Micro-Ondas-Projeto-Benner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ProjetoSOLID)](https://github.com/eutiagoportela/ProjetoSOLID)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=Projeto-Clean-Code)](https://github.com/eutiagoportela/Projeto-Clean-Code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eutiagoportela&repo=ConsultasAPI-LINQ-ArqJson-Musicas)](https://github.com/eutiagoportela/ConsultasAPI-LINQ-ArqJson-Musicas)
